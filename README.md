@@ -1,2 +1,2 @@
 # Project Simonides
-Learning notes, mindmap, source code or related things.
+Notes and sources about project simonides.
